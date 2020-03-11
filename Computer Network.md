@@ -242,6 +242,7 @@ HTTP不可以使用UDP，HTTP需要基于可靠的传输协议，而UDP不可靠
 ##### 输入 www.baidu.com，怎么变成 https://www.baidu.com 的，怎么确定用HTTP还是HTTPS？
 
 <details>
+   https://blog.csdn.net/gui951753/article/details/82227800
 <summary>展开</summary>
 
 [你访问的网站是如何自动切换到 HTTPS 的？](https://www.sohu.com/a/136637876_487516)
